@@ -15,9 +15,9 @@ NC='\033[0m' # No Color
 
 # 配置变量（可根据需要修改）
 FB_PORT=${FB_PORT:-8080}
-FB_ROOT=${FB_ROOT:-/root}
-FB_USER=${FB_USER:-admin}
-FB_PASS=${FB_PASS:-adminadmin123}
+FB_ROOT=${FB_ROOT:-/home/screenshot/}
+FB_USER=${FB_USER:-yuyehd}
+FB_PASS=${FB_PASS:-yuyehdyuyehd}
 FB_ADDRESS=${FB_ADDRESS:-0.0.0.0}
 
 echo -e "${GREEN}======================================${NC}"
