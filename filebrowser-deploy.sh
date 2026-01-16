@@ -17,7 +17,7 @@ filebrowser config init
 
 # 配置变量（可根据需要修改）
 FB_PORT=${FB_PORT:-8080}
-FB_ROOT=${FB_ROOT:-/home/screenshot/}
+FB_ROOT=${FB_ROOT:-/home/screenshot}
 FB_USER=${FB_USER:-yuyehd}
 FB_PASS=${FB_PASS:-yuyehdyuyehd}
 FB_ADDRESS=${FB_ADDRESS:-0.0.0.0}
