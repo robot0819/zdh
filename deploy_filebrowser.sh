@@ -119,7 +119,7 @@ echo -e "${YELLOW}检测到系统架构: $ARCH (FileBrowser: $FB_ARCH)${NC}"
 
 # 创建工作目录
 INSTALL_DIR="/opt/filebrowser"
-DATA_DIR="/home/screenshot"
+DATA_DIR="/home"
 CONFIG_FILE="$INSTALL_DIR/filebrowser.json"
 DB_FILE="$INSTALL_DIR/filebrowser.db"
 
