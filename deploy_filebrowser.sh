@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # FileBrowser 一键部署脚本
-# 显示根目录: /home/screenshot
+# 显示根目录: /home
 # 随机生成账号和密码
 
 set -e
